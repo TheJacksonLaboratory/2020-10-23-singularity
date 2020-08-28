@@ -82,6 +82,7 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
+
 {% include swc/intro.html %}
 
 {% comment %}
