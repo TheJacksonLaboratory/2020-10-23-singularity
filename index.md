@@ -225,8 +225,6 @@ Display the contact email address set in the configuration file.
 Please complete this brief anonymous <a href="https://www.surveymonkey.com/r/GTWDB57">post-workshop survey</a> to help us understand the impact of this course.
 </p>
 <hr/>
-{% endif %}
-
 
 {% comment %}
 SCHEDULE
